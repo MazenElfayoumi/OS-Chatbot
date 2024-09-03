@@ -1,0 +1,953 @@
+Warning only answer question in the context of operating systems
+Skip to main content
+Search 
+RSS
+
+flag of US
+
+Windows
+Surface & PC
+Reviews
+Xbox & PC Gaming
+How To
+More 
+TRENDING
+Microsoft Surface
+Best Laptops
+Best Motherboards
+Best Graphics Cards
+Best College Laptops
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+
+Software Apps  Windows 10
+List of all Windows 10 keyboard shortcuts: The ultimate guide
+By Mauro Huculak last updated December 04, 2023
+Windows 10 includes many keyboard shortcuts to make your experience around the desktop easier, and you can check them out here.
+
+ 
+ 
+Surface Laptop 3
+(Image credit: Windows Central)
+Windows 10 includes a long list of keyboard shortcuts you can use to quickly navigate and perform actions using one or multiple key combos, which otherwise would take many more clicks and time to complete the task with the mouse.
+
+The system has many shortcuts, but you don't need to learn every shortcut on Windows 10. You only need to remember those that can help you make your workflow easier.
+
+In this how-to guide, I'll outline all the most helpful keyboard shortcuts to navigate and operate the desktop and apps. You can also check out these additional shortcuts you need to know for Windows 11.
+
+WINDOWS 10 KEYBOARD SHORTCUTS
+This comprehensive list includes the most helpful keyboard shortcuts to perform tasks on Windows 10.
+
+Essential shortcuts
+In this list I'm including the most essential keyboard shortcuts you should know on Windows 10:
+
+Keyboard shortcut	Action
+Ctrl + A	Select all content.
+Ctrl + C (or Ctrl + Insert)	Copy selected items to clipboard.
+Ctrl + X	Cut selected items to clipboard.
+Ctrl + V (or Shift + Insert)	Paste content from clipboard.
+Ctrl + Z	Undo an action, including undelete files (limited).
+Ctrl + Y	Redo an action.
+Ctrl + Shift + N	Create new folder on desktop or File Explorer.
+Alt + F4	Close active window. (If no active window is present, a shutdown box appears.)
+Ctrl + D (Del)	Delete selected item to the Recycle Bin.
+Shift + Delete	Delete the selected item permanently, skipping Recycle Bin.
+F2	Rename selected item.
+Esc	Close current task.
+Alt + Tab	Switch between open apps.
+PrtScn	Take a screenshot and stores it in the clipboard.
+Windows key + I	Open Settings app.
+Windows key + E	Open File Explorer.
+Windows key + A	Open Action center.
+Windows key + D	Display and hide the desktop.
+Windows key + L	Lock device.
+Windows key + V	Open Clipboard bin.
+Windows key + Period (.) or Semicolon (;)	Open emoji panel.
+Windows key + PrtScn	Capture a full screenshot in the "Screenshots" folder.
+Windows key + Shift + S	Capture part of the screen with Snip & Sketch.
+Windows key + Left arrow key	Snap app or window left.
+Windows key + Right arrow key	Snap app or window right.
+Desktop shortcuts
+On Windows 10, you can use these keyboard shortcuts to open, close, navigate, and perform tasks more quickly throughout the desktop experience, including the Start menu, Taskbar, Settings, and more.
+
+Keyboard shortcut	Action
+Windows key (or Ctrl + Esc)	Open Start menu.
+Ctrl + Arrow keys	Change Start menu size.
+Ctrl + Shift + Esc	Open Task Manager.
+Ctrl + Shift	Switch keyboard layout.
+Alt + F4	Close active window. (If no active window is present, a shutdown box appears.)
+Ctrl + F5 (or Ctrl + R)	Refresh current window.
+Ctrl + Alt + Tab	View open apps.
+Ctrl + Arrow keys (to select) + Spacebar	Select multiple items on desktop or File Explorer.
+Alt + Underlined letter	Runs command for the underlined letter in apps.
+Alt + Tab	Switch between open apps while pressing Tab multiple times.
+Alt + Left arrow key	Go back.
+Alt + Right arrow key	Go forward.
+Alt + Page Up	Move up one screen.
+Alt + Page Down	Move down one screen.
+Alt + Esc	Cycle through open windows.
+Alt + Spacebar	Open context menu for the active window.
+Alt + F8	Reveals typed password in Sign-in screen.
+Shift + Click app button	Open another instance of an app from the Taskbar.
+Ctrl + Shift + Click app button	Run app as administrator from the Taskbar.
+Shift + Right-click app button	Show window menu for the app from the Taskbar.
+Ctrl + Click a grouped app button	Cycle through windows in the group from the Taskbar.
+Shift + Right-click grouped app button	Show window menu for the group from the Taskbar.
+Ctrl + Left arrow key	Move the cursor to the beginning of the previous word.
+Ctrl + Right arrow key	Move the cursor to the beginning of the next word.
+Ctrl + Up arrow key	Move the cursor to the beginning of the previous paragraph
+Ctrl + Down arrow key	Move the cursor to the beginning of the next paragraph.
+Ctrl + Shift + Arrow key	Select block of text.
+Ctrl + Spacebar	Enable or disable Chinese IME.
+Shift + F10	Open context menu for selected item.
+F10	Enable app menu bar.
+Shift + Arrow keys	Select multiple items.
+Windows key + X	Open Quick Link menu.
+Windows key + Number (0-9)	Open the app in number position from the Taskbar.
+Windows key + T	Cycle through apps in the Taskbar.
+Windows key + Alt + Number (0-9)	Open Jump List of the app in number position from the Taskbar.
+Windows key + D	Display and hide the desktop.
+Windows key + M	Minimize all windows.
+Windows key + Shift + M	Restore minimized windows on the desktop.
+Windows key + Home	Minimize or maximize all but the active desktop window.
+Windows key + Shift + Up arrow key	Stretch desktop window to the top and bottom of the screen.
+Windows key + Shift + Down arrow key	Maximize or minimize active desktop windows vertically while maintaining width.
+Windows key + Shift + Left arrow key	Move active window to monitor on the left.
+Windows key + Shift + Right arrow key	Move active window to monitor on the right.
+Windows key + Left arrow key	Snap app or window left.
+Windows key + Right arrow key	Snap app or window right.
+Windows key + S (or Q)	Open Search.
+Windows key + Alt + D	Open date and time in the Taskbar.
+Windows key + Tab	Open Task View.
+Windows key + Ctrl + D	Create new virtual desktop.
+Windows key + Ctrl + F4	Close active virtual desktop.
+Windows key + Ctrl + Right arrow	Switch to the virtual desktop on the right.
+Windows key + Ctrl + Left arrow	Switch to the virtual desktop on the left.
+Windows key + P	Open Project settings.
+Windows key + A	Open Action center.
+Windows key + I	Open Settings app.
+Backspace	Return to the Settings app home page.
+File Explorer shortcuts
+These are the most useful keyboard shortcuts you can use on File Explorer:
+
+Keyboard shortcut	Action
+Windows key + E	Open File Explorer.
+Alt + D	Select address bar.
+Ctrl + E (or F)	Select search box.
+Ctrl + N	Open new window.
+Ctrl + W	Close active window.
+Ctrl + F (or F3)	Start search.
+Ctrl + Mouse scroll wheel	Change view file and folder.
+Ctrl + Shift + E	Expands all folders from the tree in the navigation pane.
+Ctrl + Shift + N	Creates a new folder on desktop or File Explorer.
+Ctrl + L	Focus on the address bar.
+Ctrl + Shift + Number (1-8)	Changes folder view.
+Alt + P	Display preview panel.
+Alt + Enter	Open Properties settings for the selected item.
+Alt + Right arrow key	View next folder.
+Alt + Left arrow key (or Backspace)	View previous folder.
+Alt + Up arrow	Move up a level in the folder path.
+F11	Switch active window full-screen mode.
+F2	Rename selected item.
+F4	Switch focus to address bar.
+F5	Refresh File Explorer's current view.
+F6	Cycle through elements on the screen.
+Home	Scroll to the top of the window.
+End	Scroll to the bottom of the window.
+Settings page shortcuts
+This list includes the keyboard shortcuts for the dialog box legacy settings pages (for example, Folder Options).
+
+Keyboard shortcut	Action
+Ctrl + Tab	Cycles forward through the tabs.
+Ctrl + Shift + Tab	Cycles back through the tabs.
+Ctrl + number of tab	Jumps to tab position.
+Tab	Moves forward through the settings.
+Shift + Tab	Moves back through the settings.
+Alt + underline letter	Actions the setting identified by the letter.
+Spacebar	Checks or clears the option in focus.
+Backspace	Opens the folder one-level app in the Open or Save As dialog.
+Arrow keys	Select a button of the active setting.
+Command Prompt shortcuts
+On Command Prompt, you can use these keyboard shortcuts will help to work a little more efficiently:
+
+Keyboard shortcut	Action
+Ctrl + A	Select all content of the current line.
+Ctrl + C (or Ctrl + Insert)	Copy selected items to clipboard.
+Ctrl + V (or Shift + Insert)	Paste content from clipboard.
+Ctrl + M	Starts mark mode.
+Ctrl + Up arrow key	Move the screen up one line.
+Ctrl + Down arrow key	Move screen down one line.
+Ctrl + F	Open search for Command Prompt.
+Left or right arrow keys	Move the cursor left or right in the current line.
+Up or down arrow keys	Cycle through the command history of the current session.
+Page Up	Move cursor one page up.
+Page Down	Move cursor one page down.
+Ctrl + Home	Scroll to the top of the console.
+Ctrl + End	Scroll to the bottom of the console.
+Microsoft Edge shortcuts
+On Microsoft Edge, you will benefit from these keyboard shortcuts. These shortcuts apply to any version of Windows.
+
+Keyboard shortcut	Action
+Ctrl + Shift + B	Show or hide the favorites bar.
+Alt + Shift + B	Focus on the first item in the favorites bar.
+Ctrl + D	Save the tab as a favorite.
+Ctrl + Shift + D	Save open tabs as favorites inside a new folder.
+Alt + D (or Ctrl + L or F4)	Select the URL in the address bar to edit.
+Ctrl + E (or Ctrl + K)	Start search in the address bar.
+Alt + E (or Alt + F or F10 + Enter)	Open the Settings (three-dotted) menu.
+Ctrl + F (or F3)	Open the Find on page feature.
+Ctrl + G	Cycle through search matches in the Find Bar.
+Ctrl + Shift + G	Reverse cycle through search matches in the Find Bar.
+Ctrl + H	Open the History page in a new tab.
+Ctrl + Shift + I (or F12)	Open Developer Tools console.
+Alt + Shift + I	Open the Send feedback experience.
+Ctrl + J	Open the Downloads page in a new tab.
+Ctrl + Shift + K	Create a duplicate of the tab.
+Ctrl + Shift + L	Paste and search or Paste and go.
+Ctrl + M	Mute the current tab.
+Ctrl + Shift + M	Sign in as a different user in the browser or use Guest user.
+Ctrl + N	Open a new tab in a new window.
+Ctrl + Shift + N	Open a new InPrivate window.
+Ctrl + O	Launch Open dialog.
+Ctrl + Shift + O	Open Favorites management page.
+Ctrl + P	Print the current page.
+Ctrl + Shift + P	Open print settings to print page.
+Ctrl + R (or F5)	Reload the current page.
+Ctrl + Shift + R (or Shift + F5)	Reload the page, ignoring cached content.
+Ctrl + S	Save loaded page.
+Ctrl + T	Open a new tab and switch to new tab.
+Ctrl + Shift + T	Reopen the last closed tab and switch to the tab.
+Alt + Shift + T	Focus on the first item in the toolbar.
+Ctrl + U	View page source code.
+Ctrl + Shift + U	Controls Read Aloud feature.
+Ctrl + Shift + V	Paste without including formatting.
+Ctrl + W (or Ctrl + F4)	Close the current tab.
+Ctrl + Shift + W	Close the current window and tabs.
+Ctrl + Shift + Y	Open Collections feature.
+Ctrl + 0	Reset zoom level setting.
+Ctrl + 1, 2, ... 8	Switch to a specific open tab.
+Ctrl + 9	Switch to the last tab of the window.
+Ctrl + Enter	Add "www." to the link you typed.
+Ctrl + Tab (or Ctrl + PgDn)	Switch to the next open tab.
+Ctrl + Shift + Tab	Switch to the previous open tab.
+Ctrl + Plus (+)	Zoom in.
+Ctrl + Minus (-)	Zoom out.
+Ctrl + \ (PDF)	Toggle PDF between fit to page or fit to width.
+Ctrl + [ (PDF)	Rotate PDF counter-clockwise 90 degree.
+Ctrl + ] (PDF)	Rotate PDF clockwise 90 degree.
+Ctrl + Shift + Delete	Open clear browsing data options.
+Alt (or F10)	Focus on the Settings (three-dotted) button.
+Alt + Left arrow	Go back.
+Alt + Right arrow	Go forward.
+Alt + Home	Open home page.
+Alt + F4	Close the current window.
+F1	Open Help page.
+F6	Switch focus to the next pane.
+Shift + F6	Switch focus to the previous pane.
+F7	Enable or disable caret browsing.
+F9	Enter or exit Immersive Reader.
+Shift + F10	Open browser context menu.
+F11	Enter fullscreen.
+Esc	Stop loading page, close dialog, or close pop-up.
+Spacebar (or PgDn)	Scroll down the webpage one screen at a time.
+Shift + Spacebar (or PgUp)	Scroll up the webpage one screen at a time.
+Tab	Go to the next tab stop.
+Shift + Tab	Go to the previous tab stop
+Home	Scroll to the top of the page, or move keyboard focus to the first item of the pane.
+End	Scroll to the bottom of the page, or move keyboard focus to the last item of the pane.
+Ctrl + Shift + . (period)	Opens or closes Copilot
+Ctrl + Shift + , (comma)	Open or closes vertical tabs
+Ctrl + Shift + S	Open Web capture
+Ctrl + Q	Opens Command palette
+Shift + Esc	Opens Browser task manager
+Alt + Shift + I	Opens Send feedback
+Windows key shortcuts
+The "Windows key," combined with other keys, allows you to perform many useful tasks, such as launch Settings, File Explorer, Run command, apps pinned in the Taskbar, or open specific features like Narrator or Magnifier. You can also complete tasks like controlling windows and virtual desktops, taking screenshots, locking the computer, and more.
+
+This list includes all the most common keyboard shortcuts using the Windows key.
+
+Keyboard shortcut	Action
+Windows key	Open Start menu.
+Windows key + A	Open Action center.
+Windows key + S (or Q)	Open Search.
+Windows key + D	Display and hide the desktop.
+Windows key + L	Locks computer.
+Windows key + M	Minimize all windows.
+Windows key + B	Set focus notification area in the Taskbar.
+Windows key + C	Launch Cortana app.
+Windows key + F	Launch Feedback Hub app.
+Windows key + G	Launch Game bar app.
+Windows key + Y	Change input between desktop and Mixed Reality.
+Windows key + O	Lock device orientation.
+Windows key + T	Cycle through apps in the Taskbar.
+Windows key + Z	Switch input between the desktop experience and Windows Mixed Reality.
+Windows key + J	Set focus on a tip for Windows 10 when applicable.
+Windows key + H	Open dictation feature.
+Windows key + E	Open File Explorer.
+Windows key + I	Open Settings.
+Windows key + R	Open Run command.
+Windows key + K	Open Connect settings.
+Windows key + X	Open Quick Link menu.
+Windows key + V	Open Clipboard bin.
+Windows key + W	Open the Windows Ink Workspace.
+Windows key + U	Open Ease of Access settings.
+Windows key + P	Open Project settings.
+Windows key + Ctrl + Enter	Open Narrator.
+Windows key + Plus (+)	Zoom in using the magnifier.
+Windows key + Minus (-)	Zoom out using the magnifier.
+Windows key + Esc	Exit magnifier.
+Windows key + Forward-slash (/)	Start IME reconversion.
+Windows key + Comma (,)	Temporarily peek at the desktop.
+Windows key + Up arrow key	Maximize app windows.
+Windows key + Down arrow key	Minimize app windows.
+Windows key + Home	Minimize or maximize all but the active desktop window.
+Windows key + Shift + M	Restore minimized windows on the desktop.
+Windows key + Shift + Up arrow key	Stretch desktop window to the top and bottom of the screen.
+Windows key + Shift + Down arrow key	Maximize or minimize active windows vertically while maintaining width.
+Windows key + Shift + Left arrow key	Move active window to monitor on the left.
+Windows key + Shift + Right arrow key	Move active window to monitor on the right.
+Windows key + Left arrow key	Snap app or window left.
+Windows key + Right arrow key	Snap app or window right.
+Windows key + Number (0-9)	Open the app in number position in the Taskbar.
+Windows key + Shift + Number (0-9)	Open another app instance in the number position in the Taskbar.
+Windows key + Ctrl + Number (0-9)	Switch to the last active window of the app in the number position in the Taskbar.
+Windows key + Alt + Number (0-9)	Open Jump List of the app in number position in the Taskbar.
+Windows key + Ctrl + Shift + Number (0-9)	Open another instance as an administrator of the app in the number position in the Taskbar.
+Windows key + Ctrl + Spacebar	Change previous selected input option.
+Windows key + Spacebar	Change keyboard layout and input language.
+Windows key + Tab	Open Task View.
+Windows key + Ctrl + D	Create a virtual desktop.
+Windows key + Ctrl + F4	Close active virtual desktop.
+Windows key + Ctrl + Right arrow	Switch to the virtual desktop on the right.
+Windows key + Ctrl + Left arrow	Switch to the virtual desktop on the left.
+Windows key + Ctrl + Shift + B	Wake up the device when black or a blank screen.
+Windows key + PrtScn	Capture a full screenshot in the "Screenshots" folder.
+Windows key + Shift + S	Create part of the screen screenshot.
+Windows key + Shift + V	Cycle through notifications.
+Windows key + Ctrl + F	Open search for the device on a domain network.
+Windows key + Ctrl + Q	Open Quick Assist.
+Windows key + Alt + D	Open date and time in the Taskbar.
+Windows key + Period (.) or Semicolon (;)	Open emoji panel.
+Windows key + Pause	Show System Properties dialog box.
+More resources
+For more helpful articles, coverage, and answers to common questions about Windows 10 and Windows 11, visit the following resources:
+
+Windows 11 on Windows Central — All you need to know
+Windows 10 on Windows Central — All you need to know
+Today's Best Windows 11 deals
+Learn Microsoft Windows 11:...
+Udemy
+$99.99
+VIEW DEAL
+Microsoft Windows 11 Home 64...
+Buydig.com
+$140.72
+VIEW DEAL
+Microsoft Windows 11 (USB)
+Amazon
+Prime
+$147.49
+VIEW DEAL
+SHOW MORE DEALS
+We check over 250 million products every day for the best prices
+Get the Windows Central Newsletter
+All the latest news, reviews, and guides for Windows and Xbox diehards.
+
+Your Email Address
+Contact me with news and offers from other Future brands
+Receive email from us on behalf of our trusted partners or sponsors
+By submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged 16 or over.
+Mauro Huculak
+Mauro Huculak
+Mauro Huculak is technical writer for WindowsCentral.com. His primary focus is to write comprehensive how-tos to help users get the most out of Windows 10 and its many related technologies. He has an IT background with professional certifications from Microsoft, Cisco, and CompTIA, and he's a recognized member of the Microsoft MVP community.
+
+TOPICS
+WINDOWS 10 HELP
+CATEGORIES
+WINDOWS 10
+SOFTWARE APPS
+TOPICS
+WINDOWS 10 HELP
+MOST READ
+Microsoft HoloLens for Army
+1
+Chinese military leverage Microsoft's HoloLens 2 headsets for combat amid the US government's export ban on AI chips over security concerns
+2
+12 things Microsoft Copilot can do on Windows 11 that you REALLY should know about
+3
+NVIDIA RTX 40 Super leaks show we're getting more expensive graphics cards you probably don't need
+4
+Unverified election claims from Microsoft's AI Chatbot ignite debate over its ability to preserve democracy
+5
+I wasn't expecting these Minecraft collectibles to be so awesome — Now I love them as the perfect gifts
+Windows Central is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+
+Terms and conditions
+Contact Future's experts
+Privacy policy
+Cookies policy
+Accessibility statement
+Careers
+Licensing
+About us
+Newsletter
+Advertising inquiries
+Android Central
+iMore
+© Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.
+
+Microsoft IT Showcase
+Shortcut Keys for Windows 10
+This guide lists shortcut keys that you can use from the desktop in Windows 10.
+Shortcut Description
+Windows key Open and close the Start menu. 
++1, +2, etc. Switch to the desktop and launch the nth application in the taskbar. For example, +1 
+launches whichever application is first in the list, numbered from left to right.
++A Open the action center.
++B Highlight the notification area.
++C Launch Cortana into listening mode.
+1 Users can begin to speak to Cortana immediately. 
+Windows logo+D Switch between Show Desktop (hides/shows any applications and other windows) and 
+the previous state.
++E Switch to the desktop and launch File Explorer with the Quick Access tab displayed. 
++H Open the Share charm.
++I Open the Settings app.
++K
+Open the Connect pane to connect to wireless displays and audio devices.
++L Lock the device and go to the Lock screen.
++M Switch to the desktop and minimize all open windows.
++O
+Lock device orientation.
++P Open the Project pane to search and connect to external displays and projectors. 
++R Display the Run dialog box.
++S
+Launch Cortana.2 Users can begin to type a query immediately. 
++T
+Cycle through the apps on the taskbar.
++U Launch the Ease of Access Center.
++V
+Cycle through notifications.
++X Open the advanced menu in the lower-left corner of the screen.
++Z Open the app-specific command bar.
++ENTER Launch Narrator.
++SPACEBAR Switch input language and keyboard layout.
++TAB Open Task view.
+ 
+1
+If Cortana is unavailable or disabled, this shortcut has no function.
+2 Cortana is only available in certain countries/regions, and some Cortana features might not 
+be available everywhere. If Cortana is unavailable or disabled, this command opens Search.
+Page 2 | Shortcut Keys for Windows 10
+IT Showcase Article
+microsoft.com/itshowcase February 2018
++,
+Peek at the desktop.
++Plus Sign Zoom in.
++Minus Sign Zoom out.
++ESCAPE Close Magnifier.
++LEFT ARROW Dock the active window to the left half of the monitor.
++RIGHT ARROW Dock the active window to the right half of the monitor.
++UP ARROW Maximize the active window vertically and horizontally.
++DOWN ARROW Restore or minimize the active window.
++SHIFT+UP 
+ARROW
+Maximize the active window vertically, maintaining the current width.
++SHIFT+
+DOWN ARROW
+Restore or minimize the active window vertically, maintaining the current width.
++SHIFT+LEFT 
+ARROW
+With multiple monitors, move the active window to the monitor on the left.
++SHIFT+RIGHT 
+ARROW
+With multiple monitors, move the active window to the monitor on the right.
++HOME Minimize all nonactive windows; restore on second keystroke.
++PRNT SCRN Take a picture of the screen and place it in the Computer>Pictures>Screenshots folder.
++CTRL+LEFT/RIGHT 
+arrow
+Switch to the next or previous virtual desktop.
++CTRL+D Create a new virtual desktop.
++CTRL+F4 Close the current virtual desktop.
++? Launch the Windows Feedback App.
+For more information
+Microsoft IT
+microsoft.com/itshowcase
+Windows
+Microsoft.com
+© 2018 Microsoft Corporation. This document is for informational purposes only. MICROSOFT MAKES NO WARRANTIES, EXPRESS OR 
+IMPLIED, IN THIS SUMMARY. The names of actual companies and products mentioned herein may be the trademarks of their respective 
+owners. 
+Mazen Adel is An Artificial intelligence student in Galala university.He is 21 years old and he lives in cairoHide navigation sidebarHide table of contents sidebar
+pip documentation v23.3.2
+Search
+Getting Started
+Installation
+User Guide
+Topic Guides
+Reference
+Commands
+pip
+pip install
+pip uninstall
+pip inspect
+pip list
+pip show
+pip freeze
+pip check
+pip download
+pip wheel
+pip hash
+pip search
+pip cache
+pip config
+pip debug
+PROJECT
+
+Development
+UX Research & Design
+Changelog
+Code of Conduct
+GitHub
+ v: stable
+Edit this page
+Toggle Light / Dark / Auto color theme
+pip install
+Usage
+
+Unix/macOS
+python -m pip install [options] <requirement specifier> [package-index-options] ...
+python -m pip install [options] -r <requirements file> [package-index-options] ...
+python -m pip install [options] [-e] <vcs project url> ...
+python -m pip install [options] [-e] <local project path> ...
+python -m pip install [options] <archive url/path> ...
+
+Windows
+Description
+Install packages from:
+
+PyPI (and other indexes) using requirement specifiers.
+
+VCS project urls.
+
+Local project directories.
+
+Local or remote source archives.
+
+pip also supports installing from “requirements files”, which provide an easy way to specify a whole environment to be installed.
+
+Overview
+pip install has several stages:
+
+Identify the base requirements. The user supplied arguments are processed here.
+
+Resolve dependencies. What will be installed is determined here.
+
+Build wheels. All the dependencies that can be are built into wheels.
+
+Install the packages (and uninstall anything being upgraded/replaced).
+
+Note that pip install prefers to leave the installed version as-is unless --upgrade is specified.
+
+Argument Handling
+When looking at the items to be installed, pip checks what type of item each is, in the following order:
+
+Project or archive URL.
+
+Local directory (which must contain a setup.py, or pip will report an error).
+
+Local file (a sdist or wheel format archive, following the naming conventions for those formats).
+
+A requirement, as specified in PEP 440.
+
+Each item identified is added to the set of requirements to be satisfied by the install.
+
+Working Out the Name and Version
+For each candidate item, pip needs to know the project name and version. For wheels (identified by the .whl file extension) this can be obtained from the filename, as per the Wheel spec. For local directories, or explicitly specified sdist files, the setup.py egg_info command is used to determine the project metadata. For sdists located via an index, the filename is parsed for the name and project version (this is in theory slightly less reliable than using the egg_info command, but avoids downloading and processing unnecessary numbers of files).
+
+Any URL may use the #egg=name syntax (see VCS Support) to explicitly state the project name.
+
+Satisfying Requirements
+Once pip has the set of requirements to satisfy, it chooses which version of each requirement to install using the simple rule that the latest version that satisfies the given constraints will be installed (but see here for an exception regarding pre-release versions). Where more than one source of the chosen version is available, it is assumed that any source is acceptable (as otherwise the versions would differ).
+
+Obtaining information about what was installed
+The install command has a --report option that will generate a JSON report of what pip has installed. In combination with the --dry-run and --ignore-installed it can be used to resolve a set of requirements without actually installing them.
+
+The report can be written to a file, or to standard output (using --report - in combination with --quiet).
+
+The format of the JSON report is described in Installation Report.
+
+Installation Order
+Note
+
+This section is only about installation order of runtime dependencies, and does not apply to build dependencies (those are specified using PEP 518).
+
+As of v6.1.0, pip installs dependencies before their dependents, i.e. in “topological order.” This is the only commitment pip currently makes related to order. While it may be coincidentally true that pip will install things in the order of the install arguments or in the order of the items in a requirements file, this is not a promise.
+
+In the event of a dependency cycle (aka “circular dependency”), the current implementation (which might possibly change later) has it such that the first encountered member of the cycle is installed last.
+
+For instance, if quux depends on foo which depends on bar which depends on baz, which depends on foo:
+
+
+Unix/macOS
+python -m pip install quux
+...
+Installing collected packages baz, bar, foo, quux
+
+python -m pip install bar
+...
+Installing collected packages foo, baz, bar
+
+Windows
+Prior to v6.1.0, pip made no commitments about install order.
+
+The decision to install topologically is based on the principle that installations should proceed in a way that leaves the environment usable at each step. This has two main practical benefits:
+
+Concurrent use of the environment during the install is more likely to work.
+
+A failed install is less likely to leave a broken environment. Although pip would like to support failure rollbacks eventually, in the mean time, this is an improvement.
+
+Although the new install order is not intended to replace (and does not replace) the use of setup_requires to declare build dependencies, it may help certain projects install from sdist (that might previously fail) that fit the following profile:
+
+They have build dependencies that are also declared as install dependencies using install_requires.
+
+python setup.py egg_info works without their build dependencies being installed.
+
+For whatever reason, they don’t or won’t declare their build dependencies using setup_requires.
+
+Requirements File Format
+
+This section has been moved to Requirements File Format.
+
+Requirement Specifiers
+
+This section has been moved to Requirement Specifiers.
+
+Per-requirement Overrides
+
+This is now covered in Requirements File Format.
+
+Pre-release Versions
+Starting with v1.4, pip will only install stable versions as specified by pre-releases by default. If a version cannot be parsed as a compliant PEP 440 version then it is assumed to be a pre-release.
+
+If a Requirement specifier includes a pre-release or development version (e.g. >=0.0.dev0) then pip will allow pre-release and development versions for that requirement. This does not include the != flag.
+
+The pip install command also supports a --pre flag that enables installation of pre-releases and development releases.
+
+VCS Support
+
+This is now covered in VCS Support.
+
+Finding Packages
+pip searches for packages on PyPI using the HTTP simple interface, which is documented here and there.
+
+pip offers a number of package index options for modifying how packages are found.
+
+pip looks for packages in a number of places: on PyPI (if not disabled via --no-index), in the local filesystem, and in any additional repositories specified via --find-links or --index-url. There is no ordering in the locations that are searched. Rather they are all checked, and the “best” match for the requirements (in terms of version number - see PEP 440 for details) is selected.
+
+See the pip install Examples.
+
+SSL Certificate Verification
+
+This is now covered in HTTPS Certificates.
+
+Caching
+
+This is now covered in Caching.
+
+Wheel Cache
+
+This is now covered in Caching.
+
+Hash checking mode
+
+This is now covered in Secure installs.
+
+Local Project Installs
+
+This is now covered in Local project installs.
+
+Editable installs
+
+This is now covered in Local project installs.
+
+Build System Interface
+
+This is now covered in Build System Interface.
+
+Options
+
+-r, --requirement <file>
+Install from the given requirements file. This option can be used multiple times.
+
+-c, --constraint <file>
+Constrain versions using the given constraints file. This option can be used multiple times.
+
+--no-deps
+Don’t install package dependencies.
+
+--pre
+Include pre-release and development versions. By default, pip only finds stable versions.
+
+-e, --editable <path/url>
+Install a project in editable mode (i.e. setuptools “develop mode”) from a local project path or a VCS url.
+
+--dry-run
+Don’t actually install anything, just print what would be. Can be used in combination with --ignore-installed to ‘resolve’ the requirements.
+
+-t, --target <dir>
+Install packages into <dir>. By default this will not replace existing files/folders in <dir>. Use --upgrade to replace existing packages in <dir> with new versions.
+
+--platform <platform>
+Only use wheels compatible with <platform>. Defaults to the platform of the running system. Use this option multiple times to specify multiple platforms supported by the target interpreter.
+
+--python-version <python_version>
+The Python interpreter version to use for wheel and “Requires-Python” compatibility checks. Defaults to a version derived from the running interpreter. The version can be specified using up to three dot-separated integers (e.g. “3” for 3.0.0, “3.7” for 3.7.0, or “3.7.3”). A major-minor version can also be given as a string without dots (e.g. “37” for 3.7.0).
+
+--implementation <implementation>
+Only use wheels compatible with Python implementation <implementation>, e.g. ‘pp’, ‘jy’, ‘cp’, or ‘ip’. If not specified, then the current interpreter implementation is used. Use ‘py’ to force implementation-agnostic wheels.
+
+--abi <abi>
+Only use wheels compatible with Python abi <abi>, e.g. ‘pypy_41’. If not specified, then the current interpreter abi tag is used. Use this option multiple times to specify multiple abis supported by the target interpreter. Generally you will need to specify --implementation, --platform, and --python-version when using this option.
+
+--user
+Install to the Python user install directory for your platform. Typically ~/.local/, or %APPDATA%Python on Windows. (See the Python documentation for site.USER_BASE for full details.)
+
+--root <dir>
+Install everything relative to this alternate root directory.
+
+--prefix <dir>
+Installation prefix where lib, bin and other top-level folders are placed. Note that the resulting installation may contain scripts and other resources which reference the Python interpreter of pip, and not that of --prefix. See also the --python option if the intention is to install packages into another (possibly pip-free) environment.
+
+--src <dir>
+Directory to check out editable projects into. The default in a virtualenv is “<venv path>/src”. The default for global installs is “<current dir>/src”.
+
+-U, --upgrade
+Upgrade all specified packages to the newest available version. The handling of dependencies depends on the upgrade-strategy used.
+
+--upgrade-strategy <upgrade_strategy>
+Determines how dependency upgrading should be handled [default: only-if-needed]. “eager” - dependencies are upgraded regardless of whether the currently installed version satisfies the requirements of the upgraded package(s). “only-if-needed” - are upgraded only when they do not satisfy the requirements of the upgraded package(s).
+
+--force-reinstall
+Reinstall all packages even if they are already up-to-date.
+
+-I, --ignore-installed
+Ignore the installed packages, overwriting them. This can break your system if the existing package is of a different version or was installed with a different package manager!
+
+--ignore-requires-python
+Ignore the Requires-Python information.
+
+--no-build-isolation
+Disable isolation when building a modern source distribution. Build dependencies specified by PEP 518 must be already installed if this option is used.
+
+--use-pep517
+Use PEP 517 for building source distributions (use --no-use-pep517 to force legacy behaviour).
+
+--check-build-dependencies
+Check the build dependencies when PEP517 is used.
+
+--break-system-packages
+Allow pip to modify an EXTERNALLY-MANAGED Python installation
+
+-C, --config-settings <settings>
+Configuration settings to be passed to the PEP 517 build backend. Settings take the form KEY=VALUE. Use multiple --config-settings options to pass multiple keys to the backend.
+
+--global-option <options>
+Extra global options to be supplied to the setup.py call before the install or bdist_wheel command.
+
+--compile
+Compile Python source files to bytecode
+
+--no-compile
+Do not compile Python source files to bytecode
+
+--no-warn-script-location
+Do not warn when installing scripts outside PATH
+
+--no-warn-conflicts
+Do not warn about broken dependencies
+
+--no-binary <format_control>
+Do not use binary packages. Can be supplied multiple times, and each time adds to the existing value. Accepts either “:all:” to disable all binary packages, “:none:” to empty the set (notice the colons), or one or more package names with commas between them (no colons). Note that some packages are tricky to compile and may fail to install when this option is used on them.
+
+--only-binary <format_control>
+Do not use source packages. Can be supplied multiple times, and each time adds to the existing value. Accepts either “:all:” to disable all source packages, “:none:” to empty the set, or one or more package names with commas between them. Packages without binary distributions will fail to install when this option is used on them.
+
+--prefer-binary
+Prefer binary packages over source packages, even if the source packages are newer.
+
+--require-hashes
+Require a hash to check each requirement against, for repeatable installs. This option is implied when any package in a requirements file has a --hash option.
+
+--progress-bar <progress_bar>
+Specify whether the progress bar should be used [on, off] (default: on)
+
+--root-user-action <root_user_action>
+Action if pip is run as a root user. By default, a warning message is shown.
+
+--report <file>
+Generate a JSON file describing what pip did to install the provided requirements. Can be used in combination with --dry-run and --ignore-installed to ‘resolve’ the requirements. When - is used as file name it writes to stdout. When writing to stdout, please combine with the --quiet option to avoid mixing pip logging output with JSON output.
+
+--no-clean
+Don’t clean up build directories.
+
+
+-i, --index-url <url>
+Base URL of the Python Package Index (default https://pypi.org/simple). This should point to a repository compliant with PEP 503 (the simple repository API) or a local directory laid out in the same format.
+
+--extra-index-url <url>
+Extra URLs of package indexes to use in addition to --index-url. Should follow the same rules as --index-url.
+
+--no-index
+Ignore package index (only looking at --find-links URLs instead).
+
+-f, --find-links <url>
+If a URL or path to an html file, then parse for links to archives such as sdist (.tar.gz) or wheel (.whl) files. If a local path or file:// URL that’s a directory, then look for archives in the directory listing. Links to VCS project URLs are not supported.
+
+Examples
+Install SomePackage and its dependencies from PyPI using Requirement Specifiers
+
+
+Unix/macOS
+python -m pip install SomePackage            # latest version
+python -m pip install 'SomePackage==1.0.4'   # specific version
+python -m pip install 'SomePackage>=1.0.4'   # minimum version
+
+Windows
+Install a list of requirements specified in a file. See the Requirements files.
+
+
+Unix/macOS
+python -m pip install -r requirements.txt
+
+Windows
+Upgrade an already installed SomePackage to the latest from PyPI.
+
+
+Unix/macOS
+python -m pip install --upgrade SomePackage
+
+Windows
+Install a local project in “editable” mode. See the section on Editable Installs.
+
+
+Unix/macOS
+python -m pip install -e .                # project in current directory
+python -m pip install -e path/to/project  # project in another directory
+
+Windows
+Install a project from VCS
+
+
+Unix/macOS
+python -m pip install 'SomeProject@git+https://git.repo/some_pkg.git@1.3.1'
+
+Windows
+Install a project from VCS in “editable” mode. See the sections on VCS Support and Editable Installs.
+
+
+Unix/macOS
+python -m pip install -e 'git+https://git.repo/some_pkg.git#egg=SomePackage'          # from git
+python -m pip install -e 'hg+https://hg.repo/some_pkg.git#egg=SomePackage'            # from mercurial
+python -m pip install -e 'svn+svn://svn.repo/some_pkg/trunk/#egg=SomePackage'         # from svn
+python -m pip install -e 'git+https://git.repo/some_pkg.git@feature#egg=SomePackage'  # from 'feature' branch
+python -m pip install -e 'git+https://git.repo/some_repo.git#egg=subdir&subdirectory=subdir_path' # install a python package from a repo subdirectory
+
+Windows
+Install a package with extras.
+
+
+Unix/macOS
+python -m pip install 'SomePackage[PDF]'
+python -m pip install 'SomePackage[PDF] @ git+https://git.repo/SomePackage@main#subdirectory=subdir_path'
+python -m pip install '.[PDF]'  # project in current directory
+python -m pip install 'SomePackage[PDF]==3.0'
+python -m pip install 'SomePackage[PDF,EPUB]'  # multiple extras
+
+Windows
+Install a particular source archive file.
+
+
+Unix/macOS
+python -m pip install './downloads/SomePackage-1.0.4.tar.gz'
+python -m pip install 'http://my.package.repo/SomePackage-1.0.4.zip'
+
+Windows
+Install a particular source archive file following PEP 440 direct references.
+
+
+Unix/macOS
+python -m pip install 'SomeProject@http://my.package.repo/SomeProject-1.2.3-py33-none-any.whl'
+python -m pip install 'SomeProject @ http://my.package.repo/SomeProject-1.2.3-py33-none-any.whl'
+python -m pip install 'SomeProject@http://my.package.repo/1.2.3.tar.gz'
+
+Windows
+Install from alternative package repositories.
+
+Install from a different index, and not PyPI
+
+
+Unix/macOS
+python -m pip install --index-url http://my.package.repo/simple/ SomePackage
+
+Windows
+Install from a local flat directory containing archives (and don’t scan indexes):
+
+
+Unix/macOS
+python -m pip install --no-index --find-links=file:///local/dir/ SomePackage
+python -m pip install --no-index --find-links=/local/dir/ SomePackage
+python -m pip install --no-index --find-links=relative/dir/ SomePackage
+
+Windows
+Search an additional index during install, in addition to PyPI
+
+Warning
+
+Using this option to search for packages which are not in the main repository (such as private packages) is unsafe, per a security vulnerability called dependency confusion: an attacker can claim the package on the public repository in a way that will ensure it gets chosen over the private package.
+
+
+Unix/macOS
+python -m pip install --extra-index-url http://my.package.repo/simple SomePackage
+
+Windows
+Find pre-release and development versions, in addition to stable versions. By default, pip only finds stable versions.
+
+
+Unix/macOS
+python -m pip install --pre SomePackage
+
+Windows
+Install packages from source.
+
+Do not use any binary packages
+
+
+Unix/macOS
+python -m pip install SomePackage1 SomePackage2 --no-binary :all:
+
+Windows
+Specify SomePackage1 to be installed from source:
+
+
+Unix/macOS
+python -m pip install SomePackage1 SomePackage2 --no-binary SomePackage1
+
+Windows
+Next
+pip uninstall
+Previous
+pip
+Copyright © The pip developers
+Made with Sphinx and @pradyunsg's Furo
+ON THIS PAGE
+Usage
+Description
+Overview
+Argument Handling
+Working Out the Name and Version
+Satisfying Requirements
+Obtaining information about what was installed
+Installation Order
+Pre-release Versions
+Finding Packages
+Options
+Examples
